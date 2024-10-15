@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    place-items: center;
+}
+
+#formregistreer{
+    display: grid;
+    place-items: center;
+}
+#forminlog {
+    display: grid;
+    place-items: center;
+}

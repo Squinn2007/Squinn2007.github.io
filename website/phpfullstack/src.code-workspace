@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../../../Downloads/Eindopdracht (1)"
+		},
+		{
+			"path": "../../../../../python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Eindopdracht (1)"
+	}
+}
